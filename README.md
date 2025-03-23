@@ -1,11 +1,11 @@
 # 👋 Hi there, I'm Tromzz
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Always+Learning+New+Things;Passionate+About+Coding" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=435&lines=Aspiring+Full+Stack+Developer;Passionate+About+Technology;Learning+Every+Day" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
-I'm a passionate developer who loves creating innovative solutions. I enjoy working on challenging projects and learning new technologies. My goal is to build applications that make a difference in people's lives.
+I'm an enthusiastic learner and aspiring developer with a passion for technology. I'm currently diving into the world of app development using React Native, aiming to build cross-platform applications for both Android and iOS. I'm excited about the possibilities and can't wait to see where this journey takes me!
 
 ## 💻 Tech Stack
 
@@ -19,7 +19,7 @@ I'm a passionate developer who loves creating innovative solutions. I enjoy work
 ### 🛠️ Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white)
 <!-- Add more tool badges as needed -->
 
 ### 📚 Frameworks & Libraries
@@ -28,33 +28,32 @@ I'm a passionate developer who loves creating innovative solutions. I enjoy work
 <!-- Add more framework badges as needed -->
 
 ## 🌱 Currently Learning
-- Advanced React patterns and best practices
-- Cloud computing (AWS/Azure)
+- React Native for cross-platform app development
+- Best practices for mobile app design and user experience
+- Cloud computing (AWS)
 - Machine Learning fundamentals
 - System design and architecture
-- [Add other skills you're developing]
+- Advanced JavaScript and TypeScript concepts
 
-## �� Current Projects
+<!--## �� Current Projects
 - **Project 1**: [Project Name] - Brief description
 - **Project 2**: [Project Name] - Brief description
-- **Project 3**: [Project Name] - Brief description
+- **Project 3**: [Project Name] - Brief description-->
 <!-- Add your current projects -->
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://[linkedin.com/in/midhun-m-m-35b99781])
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tromzz)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![CodeBerge](https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=codeberg&logoColor=white)](https://codeberg.org/Tromzz)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:midhunmm541@gmail.com)
 
 ## ⚡ Fun Facts
 - I love solving complex coding problems
-- I'm passionate about open-source contributions
-- I enjoy teaching others about programming
-- [Add other interesting facts about yourself]
+- I'm a big fan of open-source projects and love contributing to the community
 
-## 🏆 Achievements
+<!--## 🏆 Achievements
 - [List your achievements, certifications, or awards]
-- [Add more achievements]
+- [Add more achievements]-->
 
 ## 📊 GitHub Stats
 <div align="center">
@@ -63,8 +62,8 @@ I'm a passionate developer who loves creating innovative solutions. I enjoy work
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tromzz&theme=radical" alt="GitHub Streak" />
 </div>
 
-## 📈 Contribution Graph
-![Snake animation](https://github.com/Tromzz/Tromzz/blob/output/github-contribution-grid-snake.svg)
+<!--## 📈 Contribution Graph
+![Snake animation](https://github.com/Tromzz/Tromzz/blob/output/github-contribution-grid-snake.svg)-->
 
 ## 🤝 Open to Collaboration
 I'm always open to collaborating on interesting projects. Feel free to reach out if you'd like to work together!
